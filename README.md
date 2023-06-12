@@ -6,6 +6,13 @@ This is a Quiz App built using Flutter, a popular cross-platform framework for b
 - Multiple-choice questions: The app presents multiple-choice questions to the users and allows them to select their answers.
 - Scoring and results: The app keeps track of the user's score and provides feedback on their performance at the end of the quiz.
 
+## Screenshots
+
+
+https://github.com/sidesshmore/Quiz-App-Flutter/assets/109675078/c61659a6-295c-461a-85d4-6894b9dca188
+
+
+
 
 ## Installation
 
@@ -57,6 +64,7 @@ Please ensure that your contributions adhere to the [code of conduct](CODE_OF_CO
 
 ## Contact
 
-If you have any questions or suggestions about the app, please feel free to contact the project maintainer at [email@example.com](mailto:email@example.com).
+For any questions or inquiries, please feel free to reach out to the project maintainer:
 
-You can also find more of my projects on GitHub at [https://github.com/sidesshmore](https://github.com/sidesshmore).
+- Name: [Sidesshmore](https://github.com/sidesshmore)
+- Email: [mosiddhesh@gmail.com](mailto:mosiddhesh@gmail.com)
